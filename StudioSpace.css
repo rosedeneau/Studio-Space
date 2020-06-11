@@ -8,6 +8,7 @@ body {
 
 a:active {
 	color: #052eff;
+	text-decoration: none;
 }
 
 .page a.active {
