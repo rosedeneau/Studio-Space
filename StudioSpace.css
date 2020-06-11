@@ -3,7 +3,7 @@
  */
 
 body {
-	background-color: #fff;
+	background-color: #FBFBFB;
 	color: #000;
 }
 
@@ -326,7 +326,7 @@ body.mobile #site_menu_button {
 }
 
 .about {
-	font-family: "neue-haas-grotesk"
+	font-family: "neue-haas-grotesk", "sans-serif", "helvetica"
 	font-style: regular;
 	padding: 0;
 	margin: 0;
@@ -336,7 +336,7 @@ body.mobile #site_menu_button {
 	}
 
 .Experience {
-	font-family: "neue-haas-grotesk"
+	font-family: "neue-haas-grotesk", "sans-serif", "helvetica"
 	font-style: regular;
 	padding: 0;
 	margin: 0;
