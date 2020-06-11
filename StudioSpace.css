@@ -6,14 +6,11 @@ body {
 	background-color: #FBFBFB;
 }
 
-a:active {
+a:active, a:visited {
 	color: #052eff;
 	text-decoration: none;
 }
 
-.page a.active {
-	opacity: .4;
-}
 
 i,
 em {
