@@ -16,6 +16,10 @@ a:active, a:visited {
 	text-decoration: none;
 }
 
+html {
+    cursor: url("https://66.media.tumblr.com/7991b65e01693768ecf8de7013f56205/66d942085e5e1362-bf/s75x75_c1/af9553bef0dab855aa9e93cbae4797024b85e0ce.png"), auto !important;
+}
+
 i,
 em {
 	font-style: italic;
