@@ -11,6 +11,10 @@ a:active, a:visited {
 	text-decoration: none;
 }
 
+.container a {
+	color: #052eff;
+	text-decoration: none;
+}
 
 i,
 em {
