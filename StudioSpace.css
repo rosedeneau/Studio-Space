@@ -337,6 +337,13 @@ body.mobile #site_menu_button {
   padding-left: 45px;
 }
 
+.container {
+  padding-top: 50px;
+  padding-right: 45px;
+  padding-bottom: 0px;
+  padding-left: 45px;
+}
+
 .about {
 	font-family: neue-haas-grotesk-display, sans-serif;
 	font-weight: 500;
