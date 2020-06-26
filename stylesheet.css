@@ -34,9 +34,9 @@ img {
 
 
 .header {
-	font-family: neue-haas-grotesk-display, sans-serif;
+	font-family: neue-haas-grotesk-display, sans-serif, Helvetica;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 500;
 	padding: 0;
 	margin: 0;
 	font-size: 3.0rem;
@@ -45,9 +45,9 @@ img {
 	}
 
 .about {
-	font-family: neue-haas-grotesk-display, sans-serif;
+	font-family: neue-haas-grotesk-display, sans-serif, Helvetica;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 500;
 	padding: 0;
 	margin: 0;
 	font-size: 3.0rem;
@@ -56,9 +56,9 @@ img {
 	}
 
 .Experience {
-	font-family: neue-haas-grotesk-display, sans-serif;
+	font-family: neue-haas-grotesk-display, sans-serif, Helvetica;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 500;
 	padding: 0;
 	margin: 0;
 	font-size: 3.0rem;
@@ -67,19 +67,12 @@ img {
 	}
 
 .about {
-	font-family: neue-haas-grotesk-display, sans-serif;
+	font-family: neue-haas-grotesk-display, sans-serif, Helvetica;
 	font-style: normal;
-	font-weight: 100;
+	font-weight: 500;
 	padding: 0;
 	margin: 0;
 	font-size: 3.0rem;
 	line-height: 1.3;
 	color: rgba(0, 0, 0, 0.85);
 	}
-
-.sticky {
-  	position: fixed;
-	top: 10;
-  	width: 100%
-}
-		
