@@ -2,8 +2,29 @@
  * Content
  */
 
-body {
-	background-color: #FBFBFB;
+.css-selector {
+    background: linear-gradient(91deg, #20f3bd, #adf320);
+    background-size: 400% 400%;
+
+    -webkit-animation: AnimationName 14s ease infinite;
+    -moz-animation: AnimationName 14s ease infinite;
+    animation: AnimationName 14s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+    0%{background-position:0% 78%}
+    50%{background-position:100% 23%}
+    100%{background-position:0% 78%}
+}
+@-moz-keyframes AnimationName {
+    0%{background-position:0% 78%}
+    50%{background-position:100% 23%}
+    100%{background-position:0% 78%}
+}
+@keyframes AnimationName { 
+    0%{background-position:0% 78%}
+    50%{background-position:100% 23%}
+    100%{background-position:0% 78%}
 }
 
 a:active, a:visited {
